@@ -14,5 +14,3 @@ I have 20+ years of experience in building dynamic, scalable, and high-performin
 Solving complex backend challenges.
 Contributing to open-source PHP projects.
 Mentoring developers and sharing knowledge.
-
-### 🔗 Let’s connect or collaborate on open-source projects!
