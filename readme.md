@@ -2,7 +2,7 @@
 
 ### Senior PHP Developer
 
-I have 20+ years of experience in building dynamic, scalable, and high-performing web applications using PHP. My passion lies in creating clean, maintainable code and architecting backend systems that drive business success.
+I have 15+ years of experience in building dynamic, scalable, and high-performing web applications using PHP. My passion lies in creating clean, maintainable code and architecting backend systems that drive business success.
 
 #### 🛠️ Core Skills & Expertise
 - **PHP**: Strong expertise in vanilla PHP and design patterns.
