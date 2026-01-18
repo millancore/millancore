@@ -15,13 +15,12 @@ I have 15+ years of experience in building dynamic, scalable, and high-performin
 
 #### 🚀 Projects
 - [Pesto](https://pestophp.com) - Modern PHP template engine that provides an intuitive and expressive using attributes as anchor points.
-- [Duenote](https://duenote.app) - Desktop App to takes notes with split view to explore webs and youtube videos in focus way.
-- [Ladoc](https://github.com/millancore/ladoc) - Explore laravel documentation via Console.
-- [Plide](https://github.com/millancore/plide) - Presentation composer uses reveal, blade and tailwind to create slides.
-- [Pipeline Iterator](https://github.com/millancore/pipeline-iterator) - Flexible and powerful way to filter PHP Iterators using a pipeline-based approach.
 - [Komposer](https://github.com/millancore/komposer) - Tool that allows you to run Composer commands in isolated environments using Docker.
 - [Stacktrace Viewer](https://millancore.github.io/php-stacktrace-viewer) - Tool to explore PHP stacktrace visually.
-
+- [Ladoc](https://github.com/millancore/ladoc) - Explore laravel documentation via Console.
+- [Duenote](https://duenote.app) - Desktop App to takes notes with split view to explore webs and youtube videos in focus way.
+- [Plide](https://github.com/millancore/plide) - Presentation composer uses reveal, blade and tailwind to create slides.
+- [Pipeline Iterator](https://github.com/millancore/pipeline-iterator) - Flexible and powerful way to filter PHP Iterators using a pipeline-based approach.
 
 #### 🏆 What I Love
 Solving complex backend challenges.
